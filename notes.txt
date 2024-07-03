@@ -1,0 +1,43 @@
+index - main page after login with restaurants n shet
+login - login page for all 3 users
+signin - sign up for customers
+signinres - sign up for restaurant owners
+main - restaurant display page after login
+shop-sidebar - restaurant menu page
+shop-sidebarres - restaurant menu page for restaurant owners
+cart - checkout/cart page (empty-cart could be useful also)
+order - order status page
+orderres - order status page for restaurant owners
+profile-details - profile & edit profile
+profile-detailsres - profile & edit profile for restaurant owners
+feedback - order feedback
+feedbackres - order feedback for restaurant owners
+categorymain - sort by category
+
+admin
+users - manage users
+categories - manage categories
+restaurants - manage restaurants
+editusers - edit users
+editcategories - edit categories
+editrestaurants - edit restaurants
+
+things to do:
+5. nav bar all pages
+6. Links (image sacrebleu link)
+7. maybe make the upload image css better? in shop-sidebarres.php / error msg when file not uploaded
+9. image/css adjustments
+10. TEST WHOLE SYSTEM WEEEEEE
+
+
+pages im no use but could be useful
+1. 404 (for admin also)
+2. coming-soon (for delivery time)
+3. confirmation & purchase confirmation (payment confirmation)
+4. empty-cart (for an empty cart)
+5. forget-password
+
+problems:
+1. 
+
+test card: 4000004580000002

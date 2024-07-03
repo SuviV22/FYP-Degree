@@ -1,0 +1,17 @@
+.submit {
+	color: #494949 !important;
+	text-transform: uppercase;
+	text-decoration: none;
+	background: #ffffff;
+	padding: 10px 20px 10px 20px;
+	border: 2px solid #494949 !important;
+	display: inline-block;
+	transition: all 0.4s ease 0s;
+}
+
+.submit:hover {
+	color: #ffffff !important;
+	background: #494949;
+	border-color: #ffffff !important;
+	transition: all 0.4s ease 0s;
+}
