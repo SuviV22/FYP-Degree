@@ -1,6 +1,6 @@
-/admin/bootstrap/
-/admin/css/icons/
-/admin/plugins/
-/images/
-/plugins/
-/stripe-php/lib
+# /admin/bootstrap/
+# /admin/css/icons/
+# /admin/plugins/
+# /images/
+# /plugins/
+# /stripe-php/lib
